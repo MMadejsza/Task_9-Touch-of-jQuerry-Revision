@@ -1,0 +1,21 @@
+.comments {
+    /* border: 1px solid black; */
+    border-radius: 7px;
+    margin: 10px;
+    padding: 10px 20px;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 30%, rgba(254, 238, 218, 0.474) 100%);
+}
+
+#email {
+    font-weight: 700;
+}
+
+h4 {
+    font-weight: 700;
+    color: #474545;
+}
+
+h5 {
+    font-weight: normal;
+}
